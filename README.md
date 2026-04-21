@@ -1,5 +1,5 @@
 # Zayed891 — Software Engineer ( Mid-level/Senior-level)
-Location: India • Open to: Remote • Email: jayedaktar35@gmail.com • GitHub: https://github.com/Zayed891 • LinkedIn: https://www.linkedin.com/in/jayed-a-0328461bacv/
+Location: India • Open to: Remote • Email: jayedaktar35@gmail.com • GitHub: https://github.com/Zayed891 
 
 ---
 
