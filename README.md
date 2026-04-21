@@ -3,8 +3,8 @@ Location: India • Open to: Remote • Email: jayedaktar35@gmail.com • GitHub
 
 ---
 
-- Product-focused software engineer with ~2 years building products through personal projects, freelance gigs, and open-source contributions. I turn product ideas into shipped, maintainable code and measurable outcomes.
-- Seeking junior / mid-level roles (backend, frontend, or full‑stack) where I can learn quickly, contribute to product delivery, and grow in a collaborative team.
+- Product-focused software engineer with 5 years building products through personal projects, freelance gigs, and open-source contributions. I turn product ideas into shipped, maintainable code and measurable outcomes.
+- Seeking Midl-level/senior roles (backend, frontend, or full‑stack) where I can learn quickly, contribute to product delivery, and grow in a collaborative team.
 
 Key highlights
 - End-to-end delivery: I define scope, implement features, add tests, deploy, and monitor live services.
@@ -48,7 +48,7 @@ How I work / what I bring
 - Growth mindset: eager to learn formal team practices, pair-program, and accept mentorship.
 
 Roles I’m targeting
-- Junior / Mid-level Software Engineer
+- Mid-level/Senior-level Software Engineer
 - Backend Engineer • Full-Stack Engineer (React + Node / TypeScript)
 - Developer Experience / Platform roles (entry-level)
 
@@ -60,4 +60,4 @@ Links & contact
 - GitHub: https://github.com/Zayed891  
 - Email: jayedaktar35@gmail.com
 
-I’m actively looking for junior/mid roles where I can contribute and grow. Message me here or via GitHub.
+I’m actively looking for roles where I can contribute and grow. Message me here or via GitHub.
