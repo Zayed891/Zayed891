@@ -17,13 +17,11 @@
 
 ### 🚀 About Me
 
-Product-focused software engineer with **4 years** building products through personal projects, freelance gigs, and open-source contributions. I turn product ideas into shipped, maintainable code and measurable outcomes — defining scope, implementing features, adding tests, deploying, and monitoring live services.
+Senior Full Stack Engineer with **4 years of experience** across startup and service-based companies, building scalable SaaS platforms, AI-powered applications, distributed backend systems, and production-grade APIs. Specialized in TypeScript, Node.js, React, Next.js, PostgreSQL, MongoDB, and AI/LLM integrations (GPT-4o, Claude, Gemini, Llama-3). Strong expertise in system architecture, RBAC, microservices, payment systems, real-time applications, design systems, and multi-tenant SaaS platforms — with a track record of independently shipping end-to-end products used by thousands of users globally.
 
-Currently seeking **Mid/Senior-level roles** (backend, frontend, or full-stack) where I can contribute to product delivery and grow in a collaborative team.
-
-- 🔭 Building and shipping web products end-to-end — from idea to deployed release
-- 🌱 Deepening skills in observability, infra-as-code, and distributed systems
-- 💬 Ask me about React, Next.js, Node.js, or shipping fast with a small team
+- 🔭 Currently building AI-powered SaaS and EdTech platforms, using AI coding agents as a core part of the workflow
+- 🌱 Deepening expertise in RAG pipelines, multi-provider LLM routing, and distributed systems
+- 💬 Ask me about system architecture, RBAC, multi-tenant SaaS, or AI/LLM integrations
 - 📫 Reach me at **jayedaktar35@gmail.com**
 
 ---
@@ -34,6 +32,16 @@ Currently seeking **Mid/Senior-level roles** (backend, frontend, or full-stack) 
 - ⚙️ Implemented **CI/CD and automated test suites** for personal projects, cutting deployment risk and manual steps
 - 📊 Improved debugging & incident response by adding **structured logging and metrics**
 - 🧩 **56 public repositories** spanning full-stack apps, smart contracts, AI tools, and dev utilities
+
+---
+
+### 🧭 Experience
+
+**4 years across startup and service-based companies**, owning full-stack delivery end-to-end — architecture, backend, frontend, and deployment.
+
+- **Senior Full Stack Engineer** *(Startup — EdTech, Present)* — Rebuilt a student-facing platform serving 15,000+ students end-to-end: bilingual (Arabic/English) UI with RTL support, a learning-analytics dashboard with new self-scoped APIs, and a design-token system that unblocked shared component reuse across the platform.
+- **Senior Founding Engineer** *(Startup — EdTech SaaS, Present)* — Architected and built a production-grade LMS serving 1,000+ students, with RBAC access control, Stripe payment automation, OTP passwordless auth, and real-time analytics; improved page load speed by 60% via Redis caching and CDN optimization.
+- **Full Stack Engineer** *(Service-based company)* — Built and maintained full-stack web applications supporting 50,000+ active users, cut average API response time by 35% through query optimization and caching, and reduced feature development time by 40% with reusable component libraries — while maintaining 99.9% uptime.
 
 ---
 
