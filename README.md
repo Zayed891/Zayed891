@@ -93,21 +93,6 @@ Senior Full Stack Engineer with **4 years of experience** across startup and ser
 
 ---
 
-### 💼 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Portfolio**](https://github.com/Zayed891/Portfolio) | Personal portfolio site | TypeScript |
-| [**10xTech**](https://github.com/Zayed891/10xTech) | Product build | TypeScript |
-| [**CuraLink**](https://github.com/Zayed891/CuraLink) | Healthcare-focused web app | JavaScript |
-| [**WiseAI**](https://github.com/Zayed891/WiseAI) | AI-powered application | TypeScript |
-| [**CareOps**](https://github.com/Zayed891/CareOps) | Operations tooling | TypeScript |
-| [**CrowdFunding_SmartContract**](https://github.com/Zayed891/CrowdFunding_SmartContract) | Solidity crowdfunding contract | Solidity |
-
-*(See [all repositories →](https://github.com/Zayed891?tab=repositories))*
-
----
-
 ### 🎯 Roles I'm Targeting
 
 `Mid/Senior Software Engineer` · `Backend Engineer` · `Full-Stack Engineer (React + Node / TypeScript)` · `Developer Experience / Platform (entry-level)`
