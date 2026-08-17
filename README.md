@@ -75,8 +75,8 @@ Senior Full Stack Engineer with **4 years of experience** across startup and ser
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zayed891&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayed891&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayed891&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zayed891&theme=tokyonight" />
 </p>
 
 <p align="center">
