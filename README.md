@@ -3,7 +3,7 @@ Location: India • Open to: Remote • Email: jayedaktar35@gmail.com • GitHub
 
 ---
 
-- Product-focused software engineer with 5 years building products through personal projects, freelance gigs, and open-source contributions. I turn product ideas into shipped, maintainable code and measurable outcomes.
+- Product-focused software engineer with 4 years building products through personal projects, freelance gigs, and open-source contributions. I turn product ideas into shipped, maintainable code and measurable outcomes.
 - Seeking Midl-level/senior roles (backend, frontend, or full‑stack) where I can learn quickly, contribute to product delivery, and grow in a collaborative team.
 
 Key highlights
